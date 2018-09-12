@@ -1,2 +1,2 @@
 # Attendance-System-Nodejs
-An attendance management system built using Nodejs and other web technologies.
+An attendance management system that will be built using Nodejs.
