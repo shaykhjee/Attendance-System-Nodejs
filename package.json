@@ -1,0 +1,19 @@
+{
+  "name": "attendance-system-nodejs",
+  "version": "1.0.0",
+  "description": "An attendance management system built using Nodejs and other web technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaykhjee/Attendance-System-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaykhjee/Attendance-System-Nodejs/issues"
+  },
+  "homepage": "https://github.com/shaykhjee/Attendance-System-Nodejs#readme"
+}
